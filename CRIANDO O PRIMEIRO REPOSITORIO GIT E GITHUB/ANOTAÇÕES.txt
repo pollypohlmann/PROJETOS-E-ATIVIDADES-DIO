@@ -1,1 +1,2 @@
 comando para atualizar o repositório do GitHub com as modificações que foram feitas no GIT: git push origin main
+após fazer alteração, usar o comando commit com um comentário usando git commit -m "" e escrever o texto da alteração dentro dessas aspas duplas

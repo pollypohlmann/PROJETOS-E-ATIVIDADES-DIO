@@ -1,3 +1,6 @@
+comando para cosultar o status do respositorio: git status
+quando a pasta aparece vermelha é porque não foi adicionada a alteração de arquivo ou pasta
+ao executar o comando git status, quando o nome do local do arquivo aparece em verde é porque atualizou
 comando para adicionar todas as modificações: add .
 após fazer alteração, usar o comando commit com um comentário usando git commit -m "" e escrever o texto da alteração dentro dessas aspas duplas
 comando para atualizar o repositório do GitHub com as modificações que foram feitas no GIT: git push origin main
